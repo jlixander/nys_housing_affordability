@@ -4,7 +4,7 @@
 The purpose of this report is to grasp housing affordability changes in New York State between 2013 and 2023. In particular, the analysis will quantify the changes. Over the past few years, the real estate market has been really hot. This has caused residential real estate, and mortgage interest rates to escalate at a rapid pace. Moreover, the increase price tag on residential real estate has prompted Landlords to increase monthly rent payments, potentially making housing less affordable for non-homeowners.
 
 ### Why Housing Affordability in New York State?
-For many Americans, homeownership is crucial to their financial well-being. After all, it is one of the biggest achievements sought after in accordance with the American Dream. Homeownership has also been a tool used to build generational wealth. Moreover, homeownership is not for everyone, and therefore, renting affordability is just as important for many.
+For many Americans, homeownership is crucial to their financial well-being. After all, it is one of the biggest achievements sought after in accordance with the American Dream. Homeownership has also been a tool used to build generational wealth. Moreover, homeownership is not for everyone, therefore renting affordability is just as important for many.
 
 ### Questions We Hope to Answer:
 * In recent years, how much has housing affordability changed in New York?
